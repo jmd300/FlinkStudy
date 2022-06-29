@@ -1,4 +1,4 @@
-package chaptero2;
+package chapter02;
 
 import org.apache.flink.api.common.typeinfo.Types;
 import org.apache.flink.api.java.ExecutionEnvironment;
